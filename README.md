@@ -53,3 +53,6 @@ The dashboard includes:
 ## Conclusion
 
 The Sales Analytics project helped analyze sales and profitability using Excel and MySQL and present the findings through an interactive Power BI dashboard. The analysis provides a clear view of business performance across products, categories, regions, and months.
+## Dashboard Preview
+
+![Sales Analytics Dashboard](Screenshot%20image.png)
